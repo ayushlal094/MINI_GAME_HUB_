@@ -1,0 +1,71 @@
+Act as a senior frontend developer and UI/UX designer.
+
+Create a complete responsive web application using React, HTML5, CSS3, and JavaScript that allows the user to choose and play one of three games:
+
+1. Tic-Tac-Toe
+2. Snake Game
+3. Rock Paper Scissors
+
+PROJECT REQUIREMENTS:
+
+⭐ Overall App
+- Create a modern, visually appealing UI with a clean layout.
+- Use semantic HTML structure.
+- Use a consistent color palette (soft gradients or modern dark/light theme).
+- Fully responsive design (desktop + tablet + mobile).
+- Smooth animations and hover effects.
+- Include a stylish landing screen where the user selects a game.
+- Add a header with the app title: “Mini Game Hub”.
+- Use cards/buttons for game selection with icons and subtle shadows.
+
+⭐ Styling (CSS)
+- Write clean, well-organized CSS (or CSS modules).
+- Use Flexbox and Grid for layout.
+- Include transitions and micro-interactions.
+- Use modern fonts (Google Fonts).
+- Add rounded corners, shadows, and spacing for a premium look.
+- Include subtle animations when switching screens.
+
+⭐ React Structure
+- Use functional components with hooks.
+- Create separate components:
+  - GameSelector
+  - TicTacToe
+  - SnakeGame
+  - RockPaperScissors
+  - Header
+- Manage state properly.
+- Allow user to navigate back to game selection.
+
+⭐ Game Features
+
+🎮 Tic Tac Toe
+- 2 player mode
+- Highlight winning line
+- Display winner or draw message
+- Restart button
+
+🐍 Snake Game
+- Canvas-based game
+- Score display
+- Game over screen with restart
+- Smooth movement
+
+✊ Rock Paper Scissors
+- Player vs Computer
+- Score tracking
+- Animated result display
+
+⭐ Extra Enhancements
+- Add subtle sound effects (optional)
+- Add loading animation
+- Include comments in code explaining key parts
+- Ensure code is clean and readable
+
+OUTPUT FORMAT:
+
+1. Provide full project structure
+2. Provide all React component code
+3. Provide CSS file
+4. Provide instructions to run the project
+5. Ensure code is production-quality and works without errors
